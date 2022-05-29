@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kim-atkinson
 - 👀 I’m interested in web and email development. 
 - 🌱 I’m currently learning JavaScript. 
-- 💞️ I’m looking to collaborate on web and email projects. 
+- 💞️ I’m looking to collaborate on web app projects. 
 - 📫 How to reach me atkinson.kimberley@gmail.com
 
 <!---
