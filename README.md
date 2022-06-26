@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kim-atkinson
 - 👀 I’m interested in websites and app development. 
-- 🌱 I’m currently learning front end development.
+- 🌱 I’m currently learning javascript development.
 - 💞️ I’m looking to collaborate on websites and web apps. 
 - 📫 How to reach me atkinson.kimberley@gmail.com
 
