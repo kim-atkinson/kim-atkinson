@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kim-atkinson
 - 👀 I’m interested in websites and app development. 
 - 🌱 I’m currently learning full-stack development.
-- 💞️ I’m looking to collaborate on websites and web apps. 
+- 💞️ I’m looking to collaborate on websites and apps. 
 - 📫 How to reach me atkinson.kimberley@gmail.com
 
 <!---
